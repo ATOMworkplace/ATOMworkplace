@@ -20,7 +20,7 @@
   </a>
 </div>
 
- <hr/>
+ <br/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
