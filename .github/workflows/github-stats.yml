@@ -38,7 +38,7 @@ jobs:
           EXCLUDED: ${{ secrets.EXCLUDED }}
           EXCLUDED_LANGS: ${{ secrets.EXCLUDED_LANGS }}
           EXCLUDE_FORKED_REPOS: true
-
+ 
       - name: Commit generated image
         run: |
           git config --global user.name "github-actions[bot]"
