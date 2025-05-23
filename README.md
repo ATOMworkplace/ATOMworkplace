@@ -41,7 +41,7 @@
 <h2 align="center">⚡ All-Time GitHub Stats ⚡</h2>
 <br/>
 <p align="center">
-  <img src="https://github.com/ATOMworkplace/ATOMworkplace/blob/main/github-metrics.svg" alt="GitHub Metrics">
+  <img src="https://raw.githubusercontent.com/ATOMworkplace/ATOMworkplace/main/github-metrics.svg" alt="GitHub Metrics" width="100%">
 </p>
 
 <br/><br/>
