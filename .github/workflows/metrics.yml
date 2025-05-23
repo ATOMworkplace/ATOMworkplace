@@ -12,7 +12,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base: activity, community, repositories
-          config_timezone: Asia/Kolkata
           template: classic
-          config_animated: true
+          config_timezone: Asia/Kolkata
+          config_animations: true
           config_twemoji: true
