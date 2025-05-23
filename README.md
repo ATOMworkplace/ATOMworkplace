@@ -40,9 +40,9 @@
 </div>
 <h2 align="center">⚡ All-Time GitHub Stats ⚡</h2>
 <br/>
-<div align="center">
-  <img src="https://github-readme-metrics.vercel.app/api?username=ATOMworkplace&template=classic&base=activity,community,repositories&config.timezone=Asia%2FKolkata&config.animated=true&config.sketch=false&config.twemoji=true" />
-</div>
+<p align="center">
+  <img src="https://github.com/ATOMworkplace/ATOMworkplace/blob/main/github-metrics.svg" alt="GitHub Metrics">
+</p>
 
 <br/><br/>
 
