@@ -1,15 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+My+name+is+Charchit+Gangwar.;)](https://git.io/typing-svg)
 
-💫 About Me:
-
-🔭 I’m currently working on Open Source contributions and mastering System Design
-
-👯 I’m looking to collaborate on Scalable Full-stack platforms and AI-driven solutions
-
-🌱 I’m currently learning Advanced Backend Engineering and Distributed Systems
-
-🏆 Achievements: I ranked top 0.25% in TCS CodeVita out of 500k participants! | LeetCode Knight | Codeforces Pupil | Won IEEE Open source week 9
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charchit-gangwar/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:charchitg9457@gmail.com) 
